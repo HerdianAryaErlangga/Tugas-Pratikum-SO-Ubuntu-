@@ -47,4 +47,63 @@ command line :
 
 29. kill 3806 (membunuh proses yang berjalan berdasarkan nomor PIDD yg di tampilkan pada command ps aux sebelumnya)
 30. find . -name "herdian.txt" (mencari file dalam direktori)
-31. sudo chown
+31. sudo command_name ("sudo" untuk menjalankan perintah dengan hak akses root
+32. sudo chown angga:angga tes.txt (mengganti kepemilikan file, karena saya hanya memiliki satu user jadi cmn ada name user "angga"
+33. sudo apt update (meng-update package list)
+
+
+![4](https://github.com/user-attachments/assets/cb41d161-cc1d-4e20-8889-309cd1259070)
+
+34. sudo apt upgrade (meng-upgrade sistem)
+
+
+![5](https://github.com/user-attachments/assets/02da54a1-436b-4940-8bcf-8cecdc303175)
+
+
+35. sudo apt install vim (menginstall aplikasi)
+36. sudo apt remove vim (menghapus aplikasi)
+37. sudo apt autoremove (membersihkan package yang tidak terpakai)
+38. grep "hello" tes.txt ("grep" untuk mencari teks dalam file)
+39. man ls (menampilkan halaman manual dari perintah)
+40. wx -l tes.txt (menghitung jumlah baris dalam file)
+41. swapon --show (menampilkan ruang swap)
+
+
+![6](https://github.com/user-attachments/assets/4df17090-0c44-4a57-93da-6eb9fc14a8ca)
+
+
+42. ip add (melihat ip address)
+43. ifconfig (melihat konfigurasi jaringan)
+
+
+![7](https://github.com/user-attachments/assets/bc266ca2-d288-4d69-a89e-fe8ca4020406)
+
+
+44. sudo adduser guest (menambahkan user baru yakni "guest")
+
+
+![8](https://github.com/user-attachments/assets/8db78164-7700-46c3-9d98-bb63cf04488a)
+
+
+45. sudo deluser guest (menghapus user guest)
+
+
+![9](https://github.com/user-attachments/assets/389d7e17-0373-47f7-ac74-912221b3a28b)
+
+
+46. sudo lshw -short (menampilkan informasi hardware)
+
+
+![10](https://github.com/user-attachments/assets/b5a9f4f7-afa1-4a55-bfa9-aaa05b63efbb)
+
+
+47. ifstat (melihat statistik penggunaan jaringan)
+
+
+![11](https://github.com/user-attachments/assets/24201a62-7da9-4c28-894e-03a59abf9458)
+
+
+48. netstat -tuln (menampilkan daftar port yang sedang dibuka oleh sistem)
+49. tar -czvf archive.tar.gz project/ (membuat arsip tar dan mengompresnya dengan gzip)
+50. sudo timedatectl set-timezone Asia/Jakarta
+51. sudo shutdown now (mematikan/men-shutdown sistem)
