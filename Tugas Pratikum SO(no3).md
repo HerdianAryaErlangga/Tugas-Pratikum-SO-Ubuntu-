@@ -26,7 +26,25 @@ command line :
 18. ls -R (melihat isi direktori secara rekursif, yg dimana pada bagian ini melihat direktori "project")
 19. clear (Untuk membersihkan/mengosongkan terminal)
 20. cd .. (untuk keluar satu tingkat dari direktori yg dibuka sebelumnya)
-21. 
 
 
 
+![2](https://github.com/user-attachments/assets/a5352f84-25ec-461d-aabd-4ea7f2ef50c8)
+
+
+21. df -h (melihat penggunaan disk)
+22. du -sh project (melihat penggunaan ruang dalam direktori "project")
+23. ls -a (menampilkan file tersembunyi di direktori)
+24. rmdir newfolder2 (menghapus direktori kosong, karena newfolder2 saya berisi file maka tidak bisa dihapus)
+25. rm -r newfolder2 (menghapus direktori beserta isinya)
+26. chmod +x script.sh (membuat file dengan hak akses tertentu)
+27. ./script.sh (menjalankan script bash)
+28. ps aux
+
+
+![3](https://github.com/user-attachments/assets/e978cf90-f9e3-4705-8eba-622a61a42c47)
+
+
+29. kill 3806 (membunuh proses yang berjalan berdasarkan nomor PIDD yg di tampilkan pada command ps aux sebelumnya)
+30. find . -name "herdian.txt" (mencari file dalam direktori)
+31. sudo chown
