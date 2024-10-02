@@ -1,4 +1,13 @@
-#TUGAS PRATIKUM SISTEM OPERASI(Ubuntu)
+## Informasi Mahasiswa
+**Nama: Herdian Arya Erlangga**\
+**NIM: 09011182328099**\
+**Kelas: SK3C**
+<br>
+<div align="Center">
+  
+### TUGAS PRATIKUM SISTEM OPERASI(Ubuntu)
+
+</div>
 
 No 1.Buatlah laporan proses instalasi di computer mahasiswa dan tampilkan 
 screenshotnya.
